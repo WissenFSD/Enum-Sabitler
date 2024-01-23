@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum(Sabitler)", "Enum(Sabitler)\Enum(Sabitler).csproj", "{67DC8EA0-A5F3-42E8-AF37-71A978138026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Enum(Degisken)", "Enum(Degisken)\Enum(Degisken).csproj", "{D87359B5-8C14-42DE-BC6D-AEECFA27817A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67DC8EA0-A5F3-42E8-AF37-71A978138026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DC8EA0-A5F3-42E8-AF37-71A978138026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DC8EA0-A5F3-42E8-AF37-71A978138026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DC8EA0-A5F3-42E8-AF37-71A978138026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D87359B5-8C14-42DE-BC6D-AEECFA27817A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D87359B5-8C14-42DE-BC6D-AEECFA27817A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D87359B5-8C14-42DE-BC6D-AEECFA27817A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D87359B5-8C14-42DE-BC6D-AEECFA27817A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5FB44382-9BA4-44EF-AE4A-9C1133EFF859}
+	EndGlobalSection
+EndGlobal
